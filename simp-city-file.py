@@ -1,4 +1,4 @@
-#Fun Gao Wei, Farrell S10222081, P06
+#Fun Gao Wei, Farrell 
 import random
 import sys
 import json
