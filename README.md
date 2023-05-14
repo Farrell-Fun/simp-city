@@ -21,8 +21,9 @@ A Beach (BCH) scores 3 points if it is built in column A or column D, or 1 point
 
 
 # Factory (FAC)
-A Factory (FAC) scores 1 point per factory (FAC) in the city, up to a maximum of 4 points for the first 4 factories; all subsequent factories only score 1 point each. For example, 
-  •	If there are 3 factories in the city, each factory will score 3 points, for a total of 3+3+3 = 9 points. 
+A Factory (FAC) scores 1 point per factory (FAC) in the city, up to a maximum of 4 points for the first 4 factories; all subsequent factories only score 1 point each. \n
+For example, \n
+  •	If there are 3 factories in the city, each factory will score 3 points, for a total of 3+3+3 = 9 points. \n
   •	If there are 5 factories in the city, the first 4 factories will score 4 points each while the 5th factory will score 1 point, for a total of 4+4+4+4+1 = 17 points.
 
 
